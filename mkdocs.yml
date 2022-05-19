@@ -1,12 +1,12 @@
 # Project information
-site_name: Project Template
-site_url: https://joseporiolayats.github.io/#project-template
-site_description: Project template documentation
+site_name: Electrificat
+site_url: https://joseporiolayats.github.io/#electrificat
+site_description: Get the best electricity rate
 site_author: Josep Oriol Ayats
 
 # Repository
-repo_url: https://github.com/joseporiolayats/project-template
-repo_name: joseporiolayats/project-template
+repo_url: https://github.com/joseporiolayats/electrificat
+repo_name: joseporiolayats/electrificat
 edit_uri: "" #disables edit button
 
 # Configuration
